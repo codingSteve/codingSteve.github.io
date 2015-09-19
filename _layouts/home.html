@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+{% include head.html %}
+
+<!-- Webmaster Tools Site Verification -->
+<meta name="google-site-verification" content="hq9-_keIZdTZt7arZ91T-gSqn8ANii362mlcn0zCgno">
+</head>
+
+<body>
+<!-- Navigation -->
+{% include nav.html %}
+
+
+<header class="marquee">
+    <div class="container">
+        <span class="brand-name">codingSteve</span>
+        <h1>Sample code &amp; other text</h1>
+        <p>Created and Maintained by <a href="https://about.me/steve.powell">Steven Powell</a>
+        </p>
+        <div id="social">
+            <iframe id="gh-fork" src="http://ghbtns.com/github-btn.html?user=codingsteve&repo=codingSteve.github.io&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="55px" height="20px"></iframe>
+            <a href="https://twitter.com/codingSteve" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @codingSteve</a>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://codingsteve.github.io/" data-via="@codingSteve" data-lang="en">Tweet</a>
+        </div>
+
+    </div>
+</header>
+
+<!-- Page Content -->
+{{ content }}
+
+<!-- Footer -->
+{% include footer.html %}
+
+<!-- JavaScript -->
+{% include javascript.html %}
+
+</body>
+
+</html>

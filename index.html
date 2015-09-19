@@ -1,1 +1,41 @@
-hello
+---
+layout: home
+title: Start codingSteve
+meta-title: "home"
+meta-description: "just some textfiles and thoughts"
+redirect_from:
+  - /index.php/
+---
+
+<div class="container">
+    <div class="row home-intro text-center">
+        <div class="col-lg-12">
+            <h2 class="tagline">Some code, docs, samples and tests</p>
+            <hr class="small">
+        </div>
+    </div>
+    <div class="row previews">
+        {% for post in site.categories.featured %}
+        <div class="col-lg-4 col-sm-6">
+            <div class="thumbnail">
+                <a href="{{ post.source }}" class="post-image-link">
+                    {{ post.content }}
+                </a>
+                <div class="caption">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.description }}</p>
+                    <a href="{{ post.source }}" class="btn btn-default">Preview &amp; Download</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+    <hr class="small">
+
+
+    <div class="text-center btn-home">
+        <aA href="http://ironsummitmedia.github.io/startbootstrap-blog-home/" class="btn btn-outline">Built using Iron Summit Media's Start bootstrap theme</a>
+    </div>
+    <hr class="small">
+</div>
