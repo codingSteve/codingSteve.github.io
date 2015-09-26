@@ -1,6 +1,6 @@
 ---
 title: "Building Scala and Java using maven"
-categories: java scala featured
+categories: java scala 
 description: using maven to build and test
 source: /docs/2015-09-19_001
 ---
