@@ -32,7 +32,7 @@ In order to borrow a book from the library, we have some preconditions:
 
 Returning a book
 ----------------
-When we return a book the library should check for any fines. 
+When we return a book the library should check for any [fines][FINES]. 
 
 We have some requirements for returning a book (or other item)
 
@@ -60,7 +60,7 @@ There are some specific actions and behaviours we expect to cover:
    [ITEM2]: https://github.com/codingSteve/library/issues/2
    [ITEM3]: https://github.com/codingSteve/library/issues/3
    [ITEM4]: https://github.com/codingSteve/library/issues/4
-
+   [FINES]: /docs/2015-09-26-fee-schedule
 
 
 
