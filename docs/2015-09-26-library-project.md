@@ -53,7 +53,7 @@ There are some specific actions and behaviours we expect to cover:
 -  member will want to ask about a set of items in the library
 - the library will want an overview on various sets of items. 
 
-
+Grouping the actions under a small number of interfaces means that we can save on code in the core library class and move behaviour into "micro-service" implementations. Laying out the supported services in a config file and processing that during startup would mean we can add services without touching the main Library classes, limiting risk to the existing functionality and clients. 
 
 
    [ITEM1]: https://github.com/codingSteve/library/issues/1
