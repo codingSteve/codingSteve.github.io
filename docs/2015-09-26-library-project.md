@@ -45,7 +45,13 @@ We have some requirements for returning a book (or other item)
 
 
 
+Further extensibility
+----------------------
 
+There are some specific actions and behaviours we expect to cover:
+- a member will want to perform an action (or ask a question) about a specific item
+-  member will want to ask about a set of items in the library
+- the library will want an overview on various sets of items. 
 
 
 
