@@ -1,6 +1,6 @@
 ---
 layout: page
-meta-title: Lambas in Java 8
+meta-title: Saturday Library Project
 title: A simple library 
 slug: loaning-from-the-library
 excerpt_separator: <!--more-->
