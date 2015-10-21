@@ -18,11 +18,15 @@ Just the stuff you need.
 
 Everything important I have learned in over fifteen years is here. 
 Described by people who are more effective than I am. 
-This is all you need to know to run rings around your peers and 
-become utterly indispensable in every team you work on and it will 
-not take you a whole career to read.
+This is all you need to run rings around your peers and 
+become utterly indispensable in every team you work on and 
+it will not take you a whole career to read.
 
 <!--more-->
+
+{% include non-coding-socialbar.html %}
+
+
 
 ------------------------------------------------------------------------------------------------------
 
@@ -57,24 +61,28 @@ When [developing][DTB]:
 - Prefer refactoring over comments
 - You can always [automate][XWI] boring things
 - Keep it simple
-- use the keyboard shortcuts
+- Use the keyboard shortcuts
+- Code wins arguments 
 
 When [leading][TCL] a team:
 
 > - Assign fun tasks to someone else
 > - Do the unpleasant tasks yourself
-> - If someone on your team wants to ask a question, you are available
-> - If you need to ask someone on your team a question, ask if it is a good time 
-> - If someone tries a design you think is wrong, ask questions to help them see why
+> - You are available if the team needs you
+> - Ask if it's a good time if you need the team
+> - Ask questions to help them improve their skills
 
 > - Be humble. 
 >     - Redirect praise for your team's work onto your team. 
 >     - Accept criticism for your team's work directly
 > - Expect to do less actual programming, but still keep ownership of one components.
 
-- if you are grateful say so
-- praise in public, criticize in private 
-- double estimates (again)
+- Get off their critical path
+- Guide them around roadblocks
+- Cultivate a [growth mindset][DGM]
+- If you are grateful say so
+- Praise in public, criticize in private 
+- Double estimates (again)
 
 In an [agile][AGL] environment remember the [basics][AID]:
 
@@ -98,12 +106,10 @@ When [writing][ABW]:
 - Keep emails under five sentences
 - Edit it again
 
-
 Other times, just remember: 
 
-- don't spend time with people you don't like
-- code wins arguments 
-- fall seven times, stand up eight
+- Don't spend time with people you don't like
+- Fall seven times, stand up eight
 
 
 [DTB]: http://deathtobullshit.com
@@ -114,6 +120,4 @@ Other times, just remember:
 [ABW]: http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 [MTM]: https://momentumdash.com
 [XWI]: https://xkcd.com/1205/
-
-
-
+[DGM]: http://mindsetonline.com/whatisit/about/index.html
