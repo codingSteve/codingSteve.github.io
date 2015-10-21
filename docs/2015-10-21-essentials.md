@@ -1,0 +1,119 @@
+---
+layout: page
+meta-title: Snippets and Quotes
+title: Snippets and sites
+slug: effective-habits
+excerpt_separator: <!--more-->
+tags:
+ - effective
+ - non-coding
+ - habits
+ - aims
+ - manifesto
+---
+
+
+Just the stuff you need.
+------------------------
+
+Everything important I have learned in over fifteen years is here. 
+Described by people who are more effective than I am. 
+This is all you need to know to run rings around your peers and 
+become utterly indispensable in every team you work on and it will 
+not take you a whole career to read.
+
+<!--more-->
+
+------------------------------------------------------------------------------------------------------
+
+Set your [priority][FPH] [for the day][MTM]:
+
+> - Wake up at least 1 hour before you have to be at a computer screen
+> - Sit down with a pen/pencil and paper
+> - Write down the 3-5 things that are making you most anxious or uncomfortable.
+> - For each item, ask yourself:
+>    * “If this were the only thing I accomplished today, would I be satisfied with my day?”
+>    * “Will moving this forward make all the other to-dos unimportant or easier to knock off later?”
+> - Look only at the items you answered “yes” to for at least one of these questions.
+> - Block out at 2-3 hours to focus on one of them for today:
+>    - Cobbling together 10 minutes here and there to add up to 120 minutes does not work
+>    - *TO BE CLEAR*: Block out at 2-3 HOURS to focus on ONE of them for today
+>    - **This is ONE BLOCK OF TIME** and you need to defend it 
+>     
+> - If you get distracted, just gently come back to your ONE to-do.
+> 
+> Congratulations! That’s it.
+
+
+When [developing][DTB]:
+
+> - Respect people and their time
+> - Respect your craft
+> - Be sincere
+> - Create genuinely useful things
+
+- Be happy because you are coding 
+- Prefer logging over debugging
+- Prefer refactoring over comments
+- You can always [automate][XWI] boring things
+- Keep it simple
+- use the keyboard shortcuts
+
+When [leading][TCL] a team:
+
+> - Assign fun tasks to someone else
+> - Do the unpleasant tasks yourself
+> - If someone on your team wants to ask a question, you are available
+> - If you need to ask someone on your team a question, ask if it is a good time 
+> - If someone tries a design you think is wrong, ask questions to help them see why
+
+> - Be humble. 
+>     - Redirect praise for your team's work onto your team. 
+>     - Accept criticism for your team's work directly
+> - Expect to do less actual programming, but still keep ownership of one components.
+
+- if you are grateful say so
+- praise in public, criticize in private 
+- double estimates (again)
+
+In an [agile][AGL] environment remember the [basics][AID]:
+
+> What to do:
+> 
+> - Find out where you are
+> - Take a small step towards your goal
+> - Adjust your understanding based on what you learned
+> - Repeat
+>
+> How to do it:
+>
+> When faced with two or more alternatives that deliver roughly the same value, 
+> take the path that makes future change easier.
+
+When [writing][ABW]:
+
+- If you think the tone is off. It probably is.
+- Edit and imagine £100 <del>for every single word you delete</del> per deletion
+- Keep it simple
+- Keep emails under five sentences
+- Edit it again
+
+
+Other times, just remember: 
+
+- don't spend time with people you don't like
+- code wins arguments 
+- fall seven times, stand up eight
+
+
+[DTB]: http://deathtobullshit.com
+[AGL]: http://agilemanifesto.org
+[AID]: http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
+[TCL]: https://news.ycombinator.com/item?id=10395046
+[FPH]: http://fourhourworkweek.com/2013/11/03/productivity-hacks/
+[ABW]: http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
+[MTM]: https://momentumdash.com
+[XWI]: https://xkcd.com/1205/
+
+
+
