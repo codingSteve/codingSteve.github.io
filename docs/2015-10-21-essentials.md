@@ -68,14 +68,15 @@ When [leading][TCL] a team:
 
 > - Assign fun tasks to someone else
 > - Do the unpleasant tasks yourself
-> - You are available if the team needs you
-> - Ask if it's a good time if you need the team
-> - Ask questions to help them improve their skills
+> - You are available if they need you
+> - Ask if it's a good time if you need them
+> - Ask questions to help them improve
 
-> - Be humble. 
->     - Redirect praise for your team's work onto your team. 
->     - Accept criticism for your team's work directly
-> - Expect to do less actual programming, but still keep ownership of one components.
+> - Be humble and generous:
+>     - they take the praise
+>     - you take the criticism
+> - Expect to do less programming
+> - Keep ownership of one component
 
 - Get off their critical path
 - Guide them around roadblocks
@@ -100,16 +101,23 @@ In an [agile][AGL] environment remember the [basics][AID]:
 
 When [writing][ABW]:
 
-- If you think the tone is off. It probably is.
+- If you think the tone is off, it is
 - Edit and imagine £100 <del>for every single word you delete</del> per deletion
-- Keep it simple
+- Keep it [simple][CHQ]
+
+    If you don't understand the word your audience might not either
 - Keep emails under five sentences
 - Edit it again
 
 Other times, just remember: 
 
 - Don't spend time with people you don't like
+- When someone talks [listen][WAL], properly
+- Take the [help][DTH]
 - Fall seven times, stand up eight
+- Action expresses [priorities][MGQ]
+
+
 
 
 [DTB]: http://deathtobullshit.com
@@ -121,3 +129,7 @@ Other times, just remember:
 [MTM]: https://momentumdash.com
 [XWI]: https://xkcd.com/1205/
 [DGM]: http://mindsetonline.com/whatisit/about/index.html
+[CHQ]: https://en.m.wikiquote.org/wiki/Winston_Churchill
+[MGQ]: http://bit.ly/1W9lhRZ
+[WAL]: http://bit.ly/1W9k1OJ
+[DTH]: http://bit.ly/1W9kwmlM
