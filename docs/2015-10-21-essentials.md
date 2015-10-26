@@ -106,6 +106,8 @@ When [writing][ABW]:
 - Keep it [simple][CHQ]
 
     If you don't understand the word your audience might not either
+
+    You [don't need complex sentences][GBW] to explain complex ideas
 - Keep emails under five sentences
 - Edit it again
 
@@ -133,3 +135,4 @@ Other times, just remember:
 [MGQ]: http://bit.ly/1W9lhRZ
 [WAL]: http://bit.ly/1W9k1OJ
 [DTH]: http://bit.ly/1W9kwmlM
+[GBW]: http://paulgraham.com/talk.html
