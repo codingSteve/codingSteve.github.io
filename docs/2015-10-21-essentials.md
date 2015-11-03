@@ -115,6 +115,7 @@ When [writing][ABW]:
 Other times, just remember: 
 
 - Don't spend time with people you don't like
+- If you're grateful, say so
 - When someone talks [listen][WAL], properly
 - Take the [help][DTH]
 - Fall seven times, stand up eight
