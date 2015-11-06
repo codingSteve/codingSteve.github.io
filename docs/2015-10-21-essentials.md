@@ -81,7 +81,7 @@ When [leading][TCL] a team:
 - Get off their critical path
 - Guide them around roadblocks
 - Cultivate a [growth mindset][DGM]
-- If you are grateful say so
+- If you are grateful, say so
 - Praise in public, criticize in private 
 - Double estimates (again)
 
@@ -115,7 +115,6 @@ When [writing][ABW]:
 Other times, just remember: 
 
 - Don't spend time with people you don't like
-- If you're grateful, say so
 - When someone talks [listen][WAL], properly
 - Take the [help][DTH]
 - Fall seven times, stand up eight
