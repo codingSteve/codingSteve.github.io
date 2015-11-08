@@ -102,13 +102,13 @@ In an [agile][AGL] environment remember the [basics][AID]:
 When [writing][ABW]:
 
 - Think about your audience 
+- Edit and imagine £100 <del>for every single word you delete</del> per deletion
 - Keep it [simple][CHQ]
 
     If you don't understand the word your audience might not either
 
     You [don't need complex sentences][GBW] to explain complex ideas
 - If you think the tone is off, it is
-- Edit and imagine £100 <del>for every single word you delete</del> per deletion
 - Keep emails under five sentences
 - Edit it again
 
@@ -120,6 +120,7 @@ Other times, just remember:
 - Fall seven times, stand up eight
 - Action expresses [priorities][MGQ]
 
+----------------------------------------------------------------------------
 
 
 
