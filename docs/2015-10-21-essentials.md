@@ -30,7 +30,7 @@ it will not take you a whole career to read.
 
 ------------------------------------------------------------------------------------------------------
 
-Set your [priority][FPH] [for the day][MTM]:
+[Tim][FHB] says to set your [priority][FPH] [for the day][MTM]:
 
 > - Wake up at least 1 hour before you have to be at a computer screen
 > - Sit down with a pen/pencil and paper
@@ -128,6 +128,7 @@ Other times, just remember:
 [AID]: http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
 [TCL]: https://news.ycombinator.com/item?id=10395046
 [FPH]: http://fourhourworkweek.com/2013/11/03/productivity-hacks/
+[FHB]: http://fourhourworkweek.com/blog
 [ABW]: http://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 [MTM]: https://momentumdash.com
 [XWI]: https://xkcd.com/1205/
