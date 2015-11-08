@@ -81,7 +81,7 @@ When [leading][TCL] a team:
 - Get off their critical path
 - Guide them around roadblocks
 - Cultivate a [growth mindset][DGM]
-- If you are grateful say so
+- If you are grateful, say so
 - Praise in public, criticize in private 
 - Double estimates (again)
 
