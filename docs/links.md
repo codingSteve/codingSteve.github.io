@@ -33,11 +33,14 @@ tags:
 - [html export](http://vimdoc.sourceforge.net/htmldoc/options.html#options)
 - [vim rx](http://tnerual.eriogerg.free.fr/vimqrc.html)
 - [vim argdo](http://vim.wikia.com/wiki/Run_a_command_in_multiple_buffers)
+- [hostname change](http://www.ducea.com/2006/08/07/how-to-change-the-hostname-of-a-linux-system/)
+- [hostname choice](https://blog.serverdensity.com/server-naming-conventions-and-best-practices/)
+
 
 ##Travel
 
-- [MAP](http://www.tfl.gov.uk/assets/downloads/colourmap.pdf)
-- [FPK](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=FPK)
-- [KGX](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=KGX)
-- [NBA](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=NBA)
-- [MOG](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=MOG)
+| [MAP](http://www.tfl.gov.uk/assets/downloads/colourmap.pdf)
+| [FPK](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=FPK)
+| [KGX](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=KGX)
+| [NBA](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=NBA)
+| [MOG](http://www.livedepartureboards.co.uk/ldb/sumdep.aspx?T=MOG)
