@@ -1,3 +1,16 @@
+---
+layout: page
+meta-title: Links
+title: Tech Links
+slug: springboard
+excerpt_separator: <!--more-->
+tags:
+ - links
+ - non-coding
+---
+
+
+
 ##Perl
 
 - [cpan](http://search.cpan.org/)
