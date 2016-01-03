@@ -22,6 +22,7 @@ tags:
 
 - [metrics](http://metrics.sourceforge.net/)
 - [memory tuning](http://www.mastertheboss.com/en/jboss-server/113-jboss-performance-tuning-1.html)
+- [garbage collection](http://mechanical-sympathy.blogspot.co.uk/2013/07/java-garbage-collection-distilled.html)
 - [hibernate](http://www.hibernate.org/)
 - [which collection?](http://stackoverflow.com/questions/21974361/what-java-collection-should-i-use)
  
