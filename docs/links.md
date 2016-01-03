@@ -23,6 +23,7 @@ tags:
 - [metrics](http://metrics.sourceforge.net/)
 - [memory tuning](http://www.mastertheboss.com/en/jboss-server/113-jboss-performance-tuning-1.html)
 - [hibernate](http://www.hibernate.org/)
+- [which collection?](http://stackoverflow.com/questions/21974361/what-java-collection-should-i-use)
  
 ##UNIX Tools
 
