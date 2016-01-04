@@ -146,5 +146,8 @@ Other times, just remember:
 [WAL]: http://bit.ly/1W9k1OJ
 [DTH]: http://bit.ly/1W9kwmlM
 [GBW]: http://paulgraham.com/talk.html
+<<<<<<< HEAD
 [SDM]: https://www.farnamstreetblog.com/2015/02/seymour-schulich-the-decision-maker/
 [HYS]: http://lifehacker.com/only-respond-to-commitments-with-either-no-or-hell-y-1714400973
+=======
+>>>>>>> master
