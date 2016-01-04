@@ -56,7 +56,6 @@ When deciding what to do:
 - if you have a free choice, pick something which makes you say [*Hell Yes!!*][HYS]
 - consider the consequences 
 
-
 When [developing][DTB]:
 
 > - Respect people and their time
