@@ -56,6 +56,7 @@ When deciding what to do:
 - if you have a free choice, pick something which makes you say [*Hell Yes!!*][HYS]
 - consider the consequences 
 
+
 When [developing][DTB]:
 
 > - Respect people and their time
@@ -148,4 +149,3 @@ Other times, just remember:
 [GBW]: http://paulgraham.com/talk.html
 [SDM]: https://www.farnamstreetblog.com/2015/02/seymour-schulich-the-decision-maker/
 [HYS]: http://lifehacker.com/only-respond-to-commitments-with-either-no-or-hell-y-1714400973
-
