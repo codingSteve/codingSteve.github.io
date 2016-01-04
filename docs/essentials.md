@@ -53,6 +53,7 @@ When deciding what to do:
 - prioritise, don't just work more
 - try to be [realistic about the upsides][SDM]
 - if you have a free choice, pick something which makes you say [*Hell Yes!!*][HYS]
+- consider the consequences of inaction 
 
 
 When [developing][DTB]:
